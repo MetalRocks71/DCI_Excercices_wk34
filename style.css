@@ -1,0 +1,71 @@
+.body{
+
+    background-color: lightgrey;
+    margin-left: 69px;
+}
+    
+.list-item1 {
+    color: blueviolet;
+    background-color: black;
+    width: 420px;
+    height: 25px;
+}
+.list-item2 {
+
+background-color: rgb(93, 125, 230);
+    color: rgb(61, 97, 37);
+     width: 420px;
+     height: 25px;
+}
+.list-item3 {
+    background-color: fuchsia;
+    color: rgb(110, 54, 16);
+     width: 420px;
+     height: 25px;
+}
+.list-item4 {
+    background-color: yellow;
+    color: rgba(153, 8, 80, 0.795);
+     width: 420px;
+     height: 37px;
+}
+
+.heading1 {
+background-color: slategrey;
+    color: blue;
+    padding-left: 10px;
+}
+.heading1{
+    border-radius: 50px;
+    text-align: center;
+}
+/*zoom over h2*/
+.heading2:hover {
+  background-color: lightskyblue;
+  color: orangered;
+  transform: rotate(180deg)
+}
+
+.heading3{
+    background-color: khaki;
+    text-align-last: center;
+}
+.heading3:hover{
+transform: scale(-1);
+}
+
+
+.heading4{
+background-color: yellowgreen;
+color: purple;
+}
+
+#lorem1{
+text-align-last: center;
+ opacity: 0.50;
+    background-color: orchid;
+   
+}
+#lorem1:hover{
+    color: blue;
+}
